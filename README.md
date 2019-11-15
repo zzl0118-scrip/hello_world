@@ -1,2 +1,7 @@
 # hello_world
-beginning
+//beginning
+#include <stdio.h>
+
+void main(){
+  printf("hello world");
+  }
